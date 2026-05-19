@@ -41,7 +41,7 @@ print(df.describe())
 # -----------------------------
 
 username = "postgres"
-password = "prarts321"
+password = "YOUR_PASSWORD"
 host = "localhost"
 port = "5432"
 database = "sales_forecasting"
